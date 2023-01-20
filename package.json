@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://suvorov-alexandr.github.io/lecture-starter-js",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server"
